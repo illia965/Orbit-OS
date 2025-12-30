@@ -3,7 +3,7 @@
 Welcome to **OrbitOS**, a custom-built operating system created using the [Cosmos SDK](github.com). 
 
 ## 🌟 About the Project
-OrbitOS is a 64-bit operating system with a Graphical User Interface (GUI) and an integrated File System. 
+OrbitOS is a operating system with a Graphical User Interface (GUI) and an integrated File System. 
 **The most exciting part:** This OS was developed by a **9-year-old developer**! 
 
 ## 🛠 Features
@@ -18,7 +18,7 @@ OrbitOS Interface
 ## 🚀 How to Run
 1. Download the latest **OrbitOS.iso** from the [Releases](github.com) section.
 2. Create a new Virtual Machine in **VMware Player** or **VirtualBox**.
-3. Select `Other 64-bit` as the OS type.
+3. Select `Other` as the OS type.
 4. Mount the ISO and enjoy!
 
 ## 💻 Tech Stack
