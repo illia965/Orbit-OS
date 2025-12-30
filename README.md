@@ -10,7 +10,6 @@ OrbitOS is a 64-bit operating system with a Graphical User Interface (GUI) and a
 - **Graphical Interface:** 800x600 resolution with a custom mouse cursor.
 - **File Explorer:** Browse files and directories on the virtual disk.
 - **Text Editor:** Create, edit, and save text files directly in the OS.
-- **Boot Screen:** Custom OrbitOS 2025 loading screen.
 
 ## 📸 Screenshots
 OrbitOS Interface
