@@ -8,7 +8,7 @@ OrbitOS is a operating system with a Graphical User Interface (GUI) and an integ
 
 ## 🛠 Features
 - **Graphical Interface:** 800x600 resolution with a custom mouse cursor.
-- **File Explorer:** Browse files and directories on the virtual disk.
+- **File Explorer:** Browse files on the disk.
 - **Text Editor:** Create, edit, and save text files directly in the OS.
 
 ## 📸 Screenshots
