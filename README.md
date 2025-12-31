@@ -16,7 +16,7 @@ OrbitOS Interface
 <img width="1719" height="1150" alt="Cosmos - VMware Workstation 17 Player 30 12 2025 14_29_46 (2)" src="https://github.com/user-attachments/assets/5a59bbc5-25c7-412f-a1b0-0a040cbd3c03" />
 
 ## 🚀 How to Run
-1. Download the latest **OrbitOS.iso** from the [Releases](github.com) section.
+1. Download the latest **OrbitOS.iso** from the Releases section.
 2. Create a new Virtual Machine in **VMware Player** or **VirtualBox**.
 3. Select `Other` as the OS type.
 4. Mount the ISO and enjoy!
